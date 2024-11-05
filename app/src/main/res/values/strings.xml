@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restaurante MVVM</string>
+    <string name="select_meal_title">Selecione um prato:</string>
+    <string name="meal_ready_title">Aqui está o seu pedido:</string>
+</resources>
